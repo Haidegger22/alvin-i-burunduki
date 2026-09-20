@@ -7,3 +7,8 @@ __pycache__/
 frames/
 *.log
 raw_backup_preclean/
+
+# сборка NES-версии (артефакты, восстанавливаются командой make)
+nes/build/
+nes/chr/tiles.chr
+nes/chr/tiles.h
