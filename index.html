@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Элвин и бурундуки — платформер</title>
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: #0d0d12;
+    color: #cfd3dc;
+    font-family: monospace;
+    height: 100%;
+    overflow: hidden;
+  }
+  #wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    gap: 10px;
+  }
+  canvas {
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    width: min(90vw, 118vh);
+    height: auto;
+    background: #101018;
+    border: 2px solid #2b2f3a;
+    box-shadow: 0 0 24px rgba(0, 0, 0, 0.6);
+  }
+  .hint {
+    font-size: 13px;
+    line-height: 1.6;
+    opacity: 0.75;
+    text-align: center;
+  }
+  .hint b { color: #ffd94a; }
+</style>
+</head>
+<body>
+<div id="wrap">
+  <canvas id="game" width="320" height="192"></canvas>
+  <div class="hint">
+    <b>Z</b> — прыжок &nbsp;·&nbsp; <b>X</b> — взять / бросить ящик &nbsp;·&nbsp; <b>↓</b> — спрятаться в ящик<br>
+    вдвоём: второй игрок — <b>A</b>/<b>D</b> ходьба, <b>W</b> прыжок, <b>C</b> ящик, <b>S</b> укрытие
+  </div>
+</div>
+<script src="js/assets.js"></script>
+<script src="js/world.js"></script>
+<script src="js/game.js"></script>
+</body>
+</html>

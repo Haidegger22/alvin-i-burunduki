@@ -1,0 +1,157 @@
+[
+ {
+  "file": "bg_level_far.png",
+  "px": "1280x720",
+  "kb": 545.5
+ },
+ {
+  "file": "bg_level_near.png",
+  "px": "1280x720",
+  "kb": 1210.0
+ },
+ {
+  "file": "bg_title.png",
+  "px": "1280x720",
+  "kb": 984.8
+ },
+ {
+  "file": "chr_alvin_jump.png",
+  "px": "1024x1024",
+  "kb": 326.5
+ },
+ {
+  "file": "chr_alvin_run1.png",
+  "px": "1024x1024",
+  "kb": 360.3
+ },
+ {
+  "file": "chr_alvin_run2.png",
+  "px": "1024x1024",
+  "kb": 477.0
+ },
+ {
+  "file": "chr_alvin_stand.png",
+  "px": "1024x1024",
+  "kb": 514.5
+ },
+ {
+  "file": "chr_alvin_throw.png",
+  "px": "1024x1024",
+  "kb": 415.9
+ },
+ {
+  "file": "chr_simon_jump.png",
+  "px": "1024x1024",
+  "kb": 336.4
+ },
+ {
+  "file": "chr_simon_run1.png",
+  "px": "1024x1024",
+  "kb": 338.5
+ },
+ {
+  "file": "chr_simon_run2.png",
+  "px": "1024x1024",
+  "kb": 300.8
+ },
+ {
+  "file": "chr_simon_stand.png",
+  "px": "1024x1024",
+  "kb": 608.1
+ },
+ {
+  "file": "chr_simon_throw.png",
+  "px": "1024x1024",
+  "kb": 597.6
+ },
+ {
+  "file": "chr_theodore_jump.png",
+  "px": "1024x1024",
+  "kb": 403.1
+ },
+ {
+  "file": "chr_theodore_run1.png",
+  "px": "1024x1024",
+  "kb": 403.1
+ },
+ {
+  "file": "chr_theodore_run2.png",
+  "px": "1024x1024",
+  "kb": 571.1
+ },
+ {
+  "file": "chr_theodore_stand.png",
+  "px": "1024x1024",
+  "kb": 470.8
+ },
+ {
+  "file": "chr_theodore_throw.png",
+  "px": "1024x1024",
+  "kb": 439.5
+ },
+ {
+  "file": "en_bee_dive.png",
+  "px": "1024x1024",
+  "kb": 447.4
+ },
+ {
+  "file": "en_bee_fly.png",
+  "px": "1024x1024",
+  "kb": 417.2
+ },
+ {
+  "file": "en_bulldog_charge.png",
+  "px": "1024x1024",
+  "kb": 606.2
+ },
+ {
+  "file": "en_bulldog_walk.png",
+  "px": "1024x1024",
+  "kb": 498.8
+ },
+ {
+  "file": "en_rat_jump.png",
+  "px": "1024x1024",
+  "kb": 433.1
+ },
+ {
+  "file": "en_rat_walk.png",
+  "px": "1024x1024",
+  "kb": 377.8
+ },
+ {
+  "file": "obj_acorn.png",
+  "px": "1024x1024",
+  "kb": 361.3
+ },
+ {
+  "file": "obj_crate.png",
+  "px": "1024x1024",
+  "kb": 498.6
+ },
+ {
+  "file": "obj_crate_broken.png",
+  "px": "1024x1024",
+  "kb": 599.0
+ },
+ {
+  "file": "obj_door.png",
+  "px": "1024x1024",
+  "kb": 345.5
+ },
+ {
+  "file": "obj_flower.png",
+  "px": "1024x1024",
+  "kb": 461.9
+ },
+ {
+  "file": "obj_heart.png",
+  "px": "1024x1024",
+  "kb": 252.8
+ },
+ {
+  "file": "obj_star.png",
+  "px": "1024x1024",
+  "kb": 367.3
+ }
+]

@@ -1,0 +1,9 @@
+# сырые картинки от генератора — восстанавливаются командой python3 tools/build_assets.py
+raw/
+# служебные каталоги Python
+__pycache__/
+*.pyc
+# временные кадры записи видео
+frames/
+*.log
+raw_backup_preclean/
